@@ -1,8 +1,6 @@
-# React + Vite
+# React query posts exercise 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Fork the porject and complete its pages as this sketch showing using react-query**
 
-Currently, two official plugins are available:
+![image](https://github.com/JSD-0923/react-query-posts-example/assets/15910965/3ea4be6e-c709-4709-b4ae-ccc7846f0fff)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
